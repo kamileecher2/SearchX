@@ -1,2 +1,5 @@
-class DDLException(Exception):
+class ArchiveExceptionHandler(Exception):
+    pass
+
+class DDLExceptionHandler(Exception):
     pass
